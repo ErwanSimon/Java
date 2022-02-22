@@ -6,9 +6,9 @@ developpement Node.js avec IntelliJ
 
 sudo apt install openjdk-17-jdk-headless
 
-puis compiler l'exemple
-javac HelloWorld.java
-java HelloWorld
+puis compiler l'exemple \
+javac HelloWorld.java \
+java HelloWorld \
 Hello, World
 
 ## Creation du fichier Yaml pour créer un multi-conteneur (docker osixia)
